@@ -21,7 +21,7 @@ body {
 
 header {
 
-	background-color: #4CAF50;
+	background-color: #efcc00;
 
 	color: red;
 
@@ -32,7 +32,6 @@ header {
 }
 
 header h1 {
-	align: right;
 
 	margin: 0;
 
@@ -112,4 +111,5 @@ color: #ff5722;
 font-weight: bold;
 
 }
+
 
