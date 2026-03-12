@@ -21,9 +21,9 @@ body {
 
 header {
 
-	background-color: #efcc00;
+	background-color: #4CAF50;
 
-	color: red;
+	color: white;
 
 	padding: 20px;
 
@@ -32,6 +32,7 @@ header {
 }
 
 header h1 {
+	align: right;
 
 	margin: 0;
 
@@ -68,7 +69,7 @@ main {
 	max-width: 100%;
 	height: auto;
 	display: block;
-	margin: 20px 0;
+	margin: 50px 0;
 }
 footer {
 
@@ -111,5 +112,3 @@ color: #ff5722;
 font-weight: bold;
 
 }
-
-
